@@ -21,7 +21,8 @@ https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip (for EN)
 and put them into "models" directory manually. 
 
 Or use these scripts for automatically installing:
-`mkdir -p models/vosk-model-ru && wget -O models/vosk-model-ru/model.zip https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip && unzip models/vosk-model-ru/model.zip -d models/vosk-model-ru && rm models/vosk-model-ru/model.zip`
+`mkdir -p models/vosk-model-ru && wget -O models/vosk-model-ru/model.zip https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip && unzip models/vosk-model-ru/model.zip -d models/vosk-model-ru && rm models/vosk-model-ru/model.zip`  
+
 `mkdir -p models/vosk-model-en && wget -O models/vosk-model-en/model.zip https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip && unzip models/vosk-model-en/model.zip -d models/vosk-model-en && rm models/vosk-model-en/model.zip`
 
 For using large models download required models from https://alphacephei.com/vosk/models and put them into "models" directory.  
