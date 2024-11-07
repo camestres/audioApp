@@ -30,11 +30,12 @@ For using large models download required models from https://alphacephei.com/vos
 "vosk-model-en" directory for English languange. 
 
 # How to use 
-Use command line interface in this format:
-python audioApp.py <path_to_audio_file> [--modify] [--speed <value>] [--volume <value>] [--transcribe] [--language <ru|en>]
-Description arguments:
-"speed" = 1.0 means no change
-"volume" add volume in dB
+Use command line interface in this format:   
+python audioApp.py <path_to_audio_file> [--modify] [--speed <value>] [--volume <value>] [--transcribe] [--language <ru|en>]   
+
+Description arguments:   
+"speed" = 1.0 means no change   
+"volume" add volume in dB   
 
 
 # Examples
